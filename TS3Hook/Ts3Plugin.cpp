@@ -29,7 +29,7 @@ int ts3plugin_apiVersion() {
 	return target;
 }
 
-const char* ts3plugin_author() { return "Splamy"; }
+const char* ts3plugin_author() { return "Dimac"; }
 const char* ts3plugin_description() { return "Prints command packets on the console.\n\nhttps://github.com/ReSpeak/TS3Hook"; }
 void ts3plugin_setFunctionPointers(void* funcs) { }
 
